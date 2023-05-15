@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+.name{
+    margin-top: -83px;
+    position: absolute;
+    margin-left: 153px;
+    font-size: 69px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.background{
+    background-color: #d8ebfb;
+    
+    
+}
+.main{
+    margin-right: 100px;
+    padding-bottom: 200px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+.logo{
+    margin: 0 auto;
+    margin-left: 45px;
+    margin-top: 30px
+}
+
+.navigation-bar{
+    margin: 0 auto;
+    margin-left: 99px;
+    font-size: 30px;
+    margin-top: 110px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+    letter-spacing: 3px;
+   
+  
+    
+}
+
+
+.nav ul li{
+    list-style: none;
+}
+.li1{
+    padding-bottom: 30px;
+    color: #2473e9;
+}
+.li2{
+    padding-bottom: 30px;
+    color: #bbc7d9;
+
+}
+.li3{
+    padding-bottom: 30px;
+    color: #11305e;
+}
+.to-do-list{
+   
+
+    position: absolute;
+    font-size: 30px;
+    top: 90px;
+    right: 128px;
+    background-color: #d8ebfb;
+    padding-top: 112px;
+    padding-bottom: 410px;
+    padding-right: 523px;
+    padding-left: 232px;
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.table{
+    top: 285px;
+    position: absolute;
+    right: 382px;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+    width:500px;
+    height: 280px;
+    text-align: center;
+} 
+
+.table,tr,th {
+    border: solid;
+    border-radius: 10px;
+    border-color: white;
+}
+
+
+.footer ul {
+   display: flex;
+   align-items: flex-end;
+   list-style: none;
+    right: 0;
+    left: 10px;
+    bottom: 0;
+    font-size: 12px;
+    gap: 50px;
+   
+}
+
+    
